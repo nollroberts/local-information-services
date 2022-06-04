@@ -34,10 +34,10 @@ What is lacking locally in the public information services domain?
   *  Measuring & Reporting Citizenry Majority Argeement Opinions
 *  Public Education Co-op
   *  Literacy 
-    *  Citizenry
-    *  Programming Languages
+     *  Citizenry
+     *  Programming Languages
   *  Subjects
-    *  Mathematics
-    *  Computer Science
-    *  Programming  
+     *  Mathematics
+     *  Computer Science
+     *  Programming  
 
