@@ -7,9 +7,9 @@ It is intended to serve a few objectives.
 First show how GitHub and markdown can make collaboration possible.
 
 Second this is a space to brainstorm ideas about:
-What an informed citizenry is?
-What role information services play in ensuring an informed citizenry?
-What citizens can do locally to help?
+*  What an informed citizenry is?
+*  What role information services play in ensuring an informed citizenry?
+*  What citizens can do locally to help?
 
 Finally its a launch pad for creating collaboration teams to work on specific objectives.
 
