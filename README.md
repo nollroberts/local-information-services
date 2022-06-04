@@ -1,5 +1,6 @@
 # local-information-services
-This is intended as a space for brainstorming.
+
+## Brainstorming
 
 It is intended to serve a few objectives.
 
