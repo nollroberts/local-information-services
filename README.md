@@ -20,6 +20,7 @@ Into the deep end ...
 What is lacking locally in the public information services domain?
 
 #### Areas to improved and develop
+
 *  News
   *  Local
   *  City
@@ -33,7 +34,7 @@ What is lacking locally in the public information services domain?
   *  Politics
   *  Election info
   *  Representation & Self-governance 
-* Services
+*  Services
   *  Citizen Collaboration
   *  Public Notices 
   *  General Bulletin Boards
